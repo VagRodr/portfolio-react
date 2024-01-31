@@ -21,8 +21,8 @@ function Projects(){
             title="Portfolio"
             tech="HTML, CSS, JS e REACT"
             description="Desenvolvimento de uma página de portfólio utilizando React"
-            repo="https://github.com/VagRodr/projeto-landing-page" //falta alterar//
-            site="https://testelandingpage.netlify.app/" //falta alterar//
+            repo="https://github.com/VagRodr/portfolio-react" //falta alterar//
+            site="https://portfolio-kappa-teal-54.vercel.app/" //falta alterar//
             />
 
             <ButtonB text='Acesse meu repositório' link='https://github.com/VagRodr?tab=repositories'/>
